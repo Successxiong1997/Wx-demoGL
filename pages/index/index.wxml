@@ -1,8 +1,18 @@
 <!--index.wxml-->
-<view class="container">
-  <button type="warn" size="default" loading:true>123</button>
-</view>
-
-<view class="section">
-    <input  maxlength="20" placeholder="最大输入长度20" />
+<view class="Allbox">
+    <view>
+        <cover-image src="/image/bg.png"></cover-image>
+    </view>
+    <view class="logoBox">
+        <cover-image src="/image/logo.png"></cover-image>
+    </view>
+    <view class="titleBox">
+        <cover-image src="/image/title.png"></cover-image>
+    </view>
+    <view class="tip5Box">
+        <cover-image src="/image/tip5.png"></cover-image>
+    </view>
+    <view class="positionBox">
+        <cover-image src="/image/position.png"></cover-image>
+    </view>
 </view>

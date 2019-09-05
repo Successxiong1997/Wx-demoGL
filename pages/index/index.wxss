@@ -1,1 +1,31 @@
 /**index.wxss**/
+.logoBox{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%);
+    width: 30%; /* 盒子宽高*/
+}
+.titleBox{
+    position: absolute;
+    top:20%;
+    left: 50%;
+    transform: translate(-50%);
+}
+.tip5Box{
+    position: absolute;
+    top:40%;
+    left: 50%;
+    transform: translate(-50%);
+    width: 30%;
+}
+.positionBox{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%);
+}
+.positionBox > cover-image{
+    width: 50%;
+    margin: 0 auto;
+}
