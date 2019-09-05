@@ -4,5 +4,5 @@
 </view>
 
 <view class="section">
-    <input  maxlength="10" placeholder="最大输入长度10" />
+    <input  maxlength="5" placeholder="最大输入长度5" />
 </view>
