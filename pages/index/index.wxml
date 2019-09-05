@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <button type="warn" size="default" loading:true>123</button>
+</view>
+
+<view class="section">
+    <input  maxlength="10" placeholder="最大输入长度10" />
+</view>
